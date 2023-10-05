@@ -1,8 +1,7 @@
 # faceDetect-api
 Node server for face-detect frontend
 
-# clone repo
-
-# npm install
-
-# npm start
+# To run this app
+clone repo
+npm install
+npm start
